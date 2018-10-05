@@ -555,9 +555,9 @@ pre code {
   margin-left: auto;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 775px) {
   .container {
-    max-width: 540px;
+    max-width: 740px;
   }
 }
 
@@ -8748,7 +8748,7 @@ button.bg-dark:focus {
 }
 
 .text-justify {
-  text-align: justify !important;
+  
 }
 
 .text-nowrap {
