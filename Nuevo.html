@@ -23,7 +23,32 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 
   </head>
-
+<style type="text/css">
+  
+.navbar-nav .nav-item ul{
+  display: none;
+  position: absolute;
+  min-width: 40px;
+}
+.navbar-nav ol{
+  list-style: none;
+}
+.navbar-nav .nav-item:hover > ul{
+  display: block;
+  list-style: none;
+}
+.navbar-nav > .nav-item{
+  float: left;
+  list-style: none;
+}
+.navbar-nav .nav-item .nav-link {
+  padding: 10px 15px;
+  display: block;
+  background-color:rgba(198,78,91,.9);
+  border-radius: 2px;
+  list-style: none;
+}
+</style>
   <body>
 
     <h1 class="site-heading text-center text-white d-none d-lg-block">
@@ -49,7 +74,18 @@
               <a class="nav-link text-uppercase text-expanded" href="Nosotros.html">NOSOTROS</a>
             </li>
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="Delegaciones.html">DELEGACIONES</a>
+              <a class="nav-link text-uppercase text-expanded" href="#">DELEGACIONES</a>
+              <ul>
+                  <li class="nav-item active px-lg-4">
+                  <a class="nav-link text-uppercase text-expanded" href="TLACHICHUCA.html">TLACHICHUCA</a>
+                  </li>
+                  <li class="nav-item px-lg-4">
+                  <a class="nav-link text-uppercase text-expanded" href="GUADALUPE.html">GUADALUPE VICTORIA</a>
+                  </li>
+                  <li class="nav-item px-lg-4">
+                  <a class="nav-link text-uppercase text-expanded" href="SALTILLO LA FRAGUA.html">SALTILLO LA FRAGUA</a>
+                  </li>
+                 </ul>
             </li>
             <li class="nav-item active px-lg-4">
               <a class="nav-link text-uppercase text-expanded" href="UBICACION.html">UBICACIÓN</a>
