@@ -255,3 +255,28 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+
+.Text-in {
+  position: relative;
+  margin-bottom: -5rem; 
+  color: white;
+  position: center;
+}
+
+figure {
+  margin: 0;
+  display: inline-block;
+  position: relative;
+}
+
+figcaption {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  padding: 3%;
+}
+
+figure:hover figcaption{
+  display: block;
+}
