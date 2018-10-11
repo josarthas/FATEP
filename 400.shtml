@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <link rel="apple-touch-icon" sizes="57x57" href="/img/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/img/icon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/img/icon/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/img/icon/apple-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="76x76" href="/img/icon/apple-icon-76x76.png">
@@ -19,24 +19,23 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/img/icon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>CATEM - FATEP</title>
+    <title> CATEM - FATEP</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css">
     <!-- Custom fonts for this template -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="css/business-casual.min.css" rel="stylesheet">
-    
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 
   </head>
@@ -70,7 +69,7 @@
 
     <h1 class="site-heading text-center text-white d-none d-lg-block">
       <span class="site-heading-upper animated fadeInDown text-primary mb-3">CATEM - FATEP</span>
-      <span class="site-heading-lower animated fadeInDown">Nosotros</span>
+      <span class="site-heading-lower animated fadeInDown">Delegaciones</span>
     </h1>
 
     <!-- Navigation -->
@@ -83,15 +82,15 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav mx-auto">
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="index.html">Inicio
+              <a class="nav-link text-uppercase text-expanded" href="index.html">INICIO
                 <span class="sr-only">(current)</span>
               </a>
             </li>
-            <li class="nav-item active px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="Nosotros.html">Nosotros</a>
+            <li class="nav-item px-lg-4">
+              <a class="nav-link text-uppercase text-expanded" href="Nosotros.html">NOSOTROS</a>
             </li>
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="#">Delegaciones</a>
+              <a class="nav-link text-uppercase text-expanded" href="#">DELEGACIONES</a>
               <ul>
                   <li class="nav-item active px-lg-4">
                   <a class="nav-link text-uppercase text-expanded" href="TLACHICHUCA.html">TLACHICHUCA</a>
@@ -104,90 +103,44 @@
                   </li>
                  </ul>
             </li>
-            <li class="nav-item px-lg-4">
+            <li class="nav-item active px-lg-4">
               <a class="nav-link text-uppercase text-expanded" href="UBICACION.html">UBICACIÓN</a>
             </li>
             <li class="nav-item px-lg-4">
               <a class="nav-link text-uppercase text-expanded" href="Nuevo2.html">NUEVO2</a>
             </li>
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="CONTACTO.html">Contacto</a>
+              <a class="nav-link text-uppercase text-expanded" href="CONTACTO.html">CONTACTO</a>
             </li>
           </ul>
         </div>
       </div>
     </nav>
 <br>
-    <section class="page-section about-heading">
+    <section class="page-section">
       <div class="container">
-        <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="img/about2.jpg" alt="">
-        <div class="about-heading-content">
-          <div class="row">
-            <div class="col-xl-9 col-lg-10 mx-auto">
-              <div class="bg-faded rounded p-5">
-                <h2 class="section-heading mb-4">
-                  <span class="section-heading-upper">Federación Autonoma de Trabajadores y Empleados de Puebla</span>
-                  <span class="section-heading-lower">FATEP</span>
-                </h2>
-                <p>Adheridos a la Confederación Autónoma de Trabajadores y Empleados de México (CATEM), la Federación Autónoma de Trabajadores de Puebla vela por los intereses de nuestros afiliados.</p>
-                <p class="mb-0">A lo largo de todo el Estado de Puebla, nuestras delegaciones defienden los derechos laborales y apoyan la superación del traajador poblano.</p>
-              </div>
+        <div class="product-item">
+          <h1 class="site-heading text-center text-white d-none d-lg-block">
+      <span class="site-heading-lower animated fadeIn">Error 404</span>
+    </h1>
+
+          <div class="row main-container middle-xs center-xs">
+              <div class="col-md-8 col-sm-10 col-xs-11">
+                <div class="box">
+                  <div class="product-item-description d-flex mr-auto">
+                    <div class="bg-faded p-5 rounded">
+                      <p style="font-family: Times New Roman" class="mb-0">Página no Encontrada</p>
+                    </div>
+                  </div>
+                </div>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="page-section cta">
-      <div class="container">
-        <div class="row">
-          <div class="col-xl-12 mx-auto">
-            <div class="cta-inner text-center rounded">
-              <h2 class="section-heading mb-5">
-                <span class="section-heading-upper">Miembros del</span>
-                <span class="section-heading-lower">Comité Ejecutivo de la federación</span>
-              </h2>
-              <ul class="list-unstyled list-hours mb-5 text-left mx-auto">
-                <li class="list-unstyled-item list-hours-item d-flex">
-                  Elpidio Díaz Escobar
-                  <span class="ml-auto">Secretario General</span>
-                </li>
-                <li class="list-unstyled-item list-hours-item d-flex">
-                  Jorge Arturo Bonilla Bermúdez
-                  <span class="ml-auto">Secretario de Organización y Promoción Sindical</span>
-                </li>
-                <li class="list-unstyled-item list-hours-item d-flex">
-                José Luis Palma Gómez
-                  <span class="ml-auto">Secretario del Trabajo</span>
-                </li>
-                <li class="list-unstyled-item list-hours-item d-flex">
-                  Carlos Hedrick Procel
-                  <span class="ml-auto">Secretario de Finanzas</span>
-                </li>
-                <li class="list-unstyled-item list-hours-item d-flex">
-                  Joel Rodrigues Tapia
-                  <span class="ml-auto">Secretario de Actas y Acuerdos</span>
-                </li>
-              </ul>
-              <p class="address mb-5">
-                <em>
-                  <strong>Diagonal Defensores de la República no. 323-A</strong>
-                  <br>
-                  Colonia Maestro Federal, Puebla, Puebla.
-                </em>
-              </p>
-              <p class="mb-0">
-                <small>
-                  <em>Secretario General</em>
-                </small>
-                <br>
-                (222) 765-3257
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+
+
 
     <footer class="footer text-faded text-center py-5">
       <div class="container">
@@ -206,8 +159,8 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav mx-auto">
-            <a href="http://twitter.com/catemfatep" target="_blank"><img src="https://lh6.googleusercontent.com/--aIk2uBwEKM/T3nN1x09jBI/AAAAAAAAAs8/qzDsbw3kEm8/s32/twitter32.png" width=32 height=32 alt="Síguenos en Twitter" /></a>
-            <a href="http://www.facebook.com/catem.fatep" target="_blank"><img alt="Siguenos en Facebook" src="https://lh6.googleusercontent.com/-CYt37hfDnQ8/T3nNydojf_I/AAAAAAAAAr0/P5OtlZxV4rk/s32/facebook32.png" width=32 height=32  /></a>
+            <a href="http://twitter.com/AQUI_TU_USUARIO" target="_blank"><img src="https://lh6.googleusercontent.com/--aIk2uBwEKM/T3nN1x09jBI/AAAAAAAAAs8/qzDsbw3kEm8/s32/twitter32.png" width=32 height=32 alt="Síguenos en Twitter" /></a>
+            <a href="http://www.facebook.com/AQUI_TU_PAGINA" target="_blank"><img alt="Siguenos en Facebook" src="https://lh6.googleusercontent.com/-CYt37hfDnQ8/T3nNydojf_I/AAAAAAAAAr0/P5OtlZxV4rk/s32/facebook32.png" width=32 height=32  /></a>
           </ul>
         </div>
       </div>
