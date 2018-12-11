@@ -2,12 +2,12 @@
  * Start Bootstrap - Business Casual v5.0.0 (https://startbootstrap.com/template-overviews/business-casual)
  * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/master/LICENSE)
- */body{font-family:Lora;
+ */body{font-family:Res Publica Cond Regular;
  	background:-webkit-gradient(linear,left top,left bottom,from(rgba(198,78,91,.65))),url(../img/bg2.jpg);
  	background:linear-gradient(rgba(225,225,225,.65)),url(../img/bg2.jpg);
  	background-attachment:fixed;
  	background-position:center;
- 	background-size:cover}h1,h2,h3,h4,h5,h6{font-family:Raleway}p{line-height:1.75}
+ 	background-size:cover}h1,h2,h3,h4,h5,h6{font-family:Georgia Bold}p{line-height:1.75}
  	.text-faded{
  		color:rgba(255,255,255,.3)
  	}
@@ -16,7 +16,7 @@
  		margin-bottom:5rem;
  		text-transform:uppercase;
  		line-height:1;
- 		font-family:Raleway
+ 		font-family:Georgia Bold
  		}
  	.site-heading
  	.site-heading-upper{
@@ -46,8 +46,8 @@
  	.bg-faded{
  		background-color:rgba(255,255,255,.85)}
  	#mainNav{
- 		background-color:rgba(198,78,91,.9);
- 		font-family:Raleway}
+ 		background-color:rgba(192,49,26,.9);
+ 		font-family:Georgia Bold}
  	#mainNav 
  	.navbar-brand{
  		color:#E0BA30}
@@ -108,7 +108,7 @@
  		.cta{
  			padding-top:5rem;
  			padding-bottom:5rem;
- 			background-color:rgba(167,138,49,.9)}
+ 			background-color:rgba(39,37,31,.9)}
  		.cta 
  		.cta-inner{
  			position:relative;
@@ -171,12 +171,12 @@
  			strong{
  				font-size:1.2rem}
  			.footer{
- 				background-color:rgba(167,138,49,.9)}
+ 				background-color:rgba(39,37,31,.9)}
  			.text-primary{color:#E0BA30!important}
  			.bg-primary{background-color:#E0BA30!important}
  			.btn{-webkit-box-shadow:0 3px 3px 0 rgba(33,37,41,.1);
  				box-shadow:0 3px 3px 0 rgba(33,37,41,.1)}
- 			.btn-primary{background-color:#C64E5B;border-color:#C64E5B}
+ 			.btn-primary{background-color:#c0311a ;border-color:#c0311a }
  			.btn-primary:active,
  			.btn-primary:focus,
  			.btn-primary:hover{

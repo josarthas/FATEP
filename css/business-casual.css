@@ -5,7 +5,7 @@
  */
 
 body {
-  font-family: 'Lora';
+  font-family: 'Res Publica Cond Regular';
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(167,138,49, 0.65))), url("../img/bg2.jpg");
   background: linear-gradient(rgba(167,138,49, 0.65)), url("../img/bg2.jpg");
   background-attachment: fixed;
@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Raleway';
+  font-family: 'Georgia Bold';
 }
 
 p {
@@ -35,7 +35,7 @@ p {
   margin-bottom: 5rem;
   text-transform: uppercase;
   line-height: 1;
-  font-family: 'Raleway';
+  font-family: 'Georgia Bold';
 }
 
 .site-heading .site-heading-upper {
@@ -77,7 +77,7 @@ p {
 
 #mainNav {
   background-color: rgba(167,138,49, 0.9);
-  font-family: 'Raleway';
+  font-family: 'Georgia Bold';
 }
 
 #mainNav .navbar-brand {
@@ -201,9 +201,8 @@ p {
 .list-hours {
   font-size: 0.9rem;
 }
-
 .list-hours .list-hours-item {
-  border-bottom: 1px solid rgba(198,78,91, 0.5);
+  border-bottom: 1px solid rgba(18,78,91, 0.65);
   padding-bottom: .25rem;
   margin-bottom: 1rem;
   font-style: italic;
