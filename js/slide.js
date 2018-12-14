@@ -1,6 +1,11 @@
 var slideIndex = 0;
 carousel();
 
+function plusDivs(n) {
+    showDivs(slideIndex += n);
+}
+
+
 function carousel() {
     var i;
     var x = document.getElementsByClassName("mySlides");
